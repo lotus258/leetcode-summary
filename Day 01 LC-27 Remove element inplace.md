@@ -2,6 +2,7 @@ https://leetcode.con/problems/remove-element/
 
 #Brute force:
 
+```
 class Solution {
     public int removeElement(int[] nums, int val) {
         //brute force
@@ -23,11 +24,12 @@ class Solution {
         return nums.length - count;
     }
 }
+```
 
 
 Two pointer:
 
-
+```
 class Solution {
     public int removeElement(int[] nums, int val) {
         //two pointers
@@ -41,3 +43,4 @@ class Solution {
         return slow;
     }
 }
+```
