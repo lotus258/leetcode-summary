@@ -69,7 +69,7 @@ class Solution {
     }
 
     public int helper(int[] nums, int left, int right, int target) {
-        //recursion exit 1; this should come first
+        //recursion exit 1; this should be checked first
         if (left > right) return -1;
 
         //recusion exit 2; return when target found
