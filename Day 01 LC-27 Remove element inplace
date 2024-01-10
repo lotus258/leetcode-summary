@@ -1,6 +1,6 @@
 https://leetcode.con/problems/remove-element/
 
-Brute force:
+#Brute force:
 
 class Solution {
     public int removeElement(int[] nums, int val) {
