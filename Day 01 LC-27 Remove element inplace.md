@@ -1,4 +1,4 @@
-https://leetcode.con/problems/remove-element/
+https://leetcode.com/problems/remove-element/
 
 ### Brute force:
 
