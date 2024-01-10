@@ -1,6 +1,6 @@
 https://leetcode.con/problems/remove-element/
 
-#Brute force:
+### Brute force:
 
 ```
 class Solution {
@@ -27,7 +27,7 @@ class Solution {
 ```
 
 
-Two pointer:
+### Two pointer:
 
 ```
 class Solution {
