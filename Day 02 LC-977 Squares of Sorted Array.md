@@ -1,5 +1,7 @@
 https://leetcode.com/problems/squares-of-a-sorted-array/description/
 
+Given an integer array nums sorted in non-decreasing order, return an array of the squares of each number sorted in non-decreasing order.
+
 ## Two pointers
 
 The array is sorted so we have to use this feature. Time complexity is O(n).
